@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, san-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #000;
+}
+
+/* PAGE */
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+/* HEADER */
+.header__title {
+  margin: 24px 0;
+  font-size: 32px;
+  color: purple;
+}
+
+/* MAIN */
+
+.main__paragraph {
+  margin: 16px 0;
+}
